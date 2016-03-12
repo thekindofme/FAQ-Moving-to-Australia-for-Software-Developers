@@ -74,7 +74,7 @@ Beyond that, I am afraid the words 'Culture Fit' can mean anything your prospect
 
 ##Can’t find what you are looking for?
 
-Ask me directly (if you know me personally) or comment or even better send a pull request and I’ll do my best to answer (if I am not feeling too lazy).
+Ask me directly (if you know me personally) or comment or even better send a [pull request](https://github.com/thekindofme/FAQ-Moving-to-Australia-for-Software-Developers/edit/master/README.md) and I’ll do my best to answer (if I am not feeling too lazy).
 
 Good luck on landing your dream gig in Australia! Don't forget to [check this out](http://www.koalanet.com.au/australian-slang.html) before you get here :)
 
