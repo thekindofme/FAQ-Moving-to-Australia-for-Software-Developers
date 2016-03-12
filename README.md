@@ -19,7 +19,7 @@ For software folks, it’s shouldn’t be too hard. But then again this depends.
 
 However, that said I also happen to work with many developers who found jobs before coming to Australia, without having PR. So that’s possible as well.
 
-#What’s the pay/salary like for software developers?
+##What’s the pay/salary like for software developers?
 
 TLDR: Depends. It depends on your skill level, the location and the market. For a general salary guide look at [Hays salary guide](https://www.hays.com.au/salary-guide/). For a more ruby/developer specific guide look at these very informative discussion on ruby oceania mailing list:
 
